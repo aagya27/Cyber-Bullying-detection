@@ -29,7 +29,7 @@ The **Home** page gives you a real-time overview of all activity.
 -   See the total number of threats detected.
 -   Watch the "Real-Time Detection Feed" update instantly when new threats are found.
 
-![Dashboard Feed](/dashboard_after_hate_1765876591877.png)
+![Dashboard Feed](/public/dashboard_after_hate_1765876591877.png)
 
 ### Incidents Log
 Navigate to the **Incidents** page to see a full history of every threat you've analyzed.
@@ -39,4 +39,4 @@ Navigate to the **Incidents** page to see a full history of every threat you've 
 ## 4. Video Demo
 Watch the full flow in action: Entering text, detecting a threat, and seeing it appear in your logs.
 
-![Full Workflow Demo](/home/sourav/.gemini/antigravity/brain/c397786b-9b40-472e-9e9c-ed7b40a441e7/debug_data_flow_1765876618731.webp)
+![Full Workflow Demo](/public/debug_data_flow_1765876618731.webp)
