@@ -13,7 +13,7 @@ The AI will instantly evaluate the text for toxicity, insults, threats, and hate
 
 **Example Analysis:**
 Here we test the system with a sample insult to see it in action.
-![Analysis Example](/home/sourav/.gemini/antigravity/brain/c397786b-9b40-472e-9e9c-ed7b40a441e7/analysis_incompetent_1765876663627.png)
+![Analysis Example](/public/c397786b-9b40-472e-9e9c-ed7b40a441e7/analysis_incompetent_1765876663627.png)
 
 ## 2. Understanding Results
 The system provides a detailed breakdown of what it found:
@@ -29,7 +29,7 @@ The **Home** page gives you a real-time overview of all activity.
 -   See the total number of threats detected.
 -   Watch the "Real-Time Detection Feed" update instantly when new threats are found.
 
-![Dashboard Feed](/home/sourav/.gemini/antigravity/brain/c397786b-9b40-472e-9e9c-ed7b40a441e7/dashboard_after_hate_1765876591877.png)
+![Dashboard Feed](/c397786b-9b40-472e-9e9c-ed7b40a441e7/dashboard_after_hate_1765876591877.png)
 
 ### Incidents Log
 Navigate to the **Incidents** page to see a full history of every threat you've analyzed.
