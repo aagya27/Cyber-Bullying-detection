@@ -81,7 +81,7 @@ const Index = () => {
 
             <h1 className="text-4xl md:text-5xl lg:text-6xl font-bold text-foreground mb-6 animate-slide-up">
               Detect & Report
-              <span className="block text-gradient mt-2">Cyberbullying in Real-Time</span>
+              <span className="block bg-gradient-to-r from-primary to-secondary text-transparent bg-clip-text mt-2">Cyberbullying in Real-Time</span>
             </h1>
 
             <p className="text-lg md:text-xl text-muted-foreground mb-8 max-w-2xl mx-auto animate-slide-up" style={{ animationDelay: "0.1s" }}>
